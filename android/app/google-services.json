@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "899529344401",
+    "project_id": "fluttergram-cab43",
+    "storage_bucket": "fluttergram-cab43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899529344401:android:aa4e6edc229189514f0630",
+        "android_client_info": {
+          "package_name": "com.sidlab.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899529344401-ogm1uo2vqt76f9d69g6p4no35q1kd4a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPCseBgo8nutyULIuElY2l5VjVhVmVWdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899529344401-ogm1uo2vqt76f9d69g6p4no35q1kd4a1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899529344401-915d8p800annneeuqlrq0l1hbo25gcgv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sidlab.instagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
